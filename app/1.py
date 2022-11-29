@@ -1,1 +1,2 @@
-print("my name is chakravarthi")
+a=10
+print(a)
